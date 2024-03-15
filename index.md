@@ -49,7 +49,9 @@ as we go.
 
 **Trainers:** Ash, Chandra, Erin, Ian, Puspendu
 
-9:30 - 9:45 - [Welcome](https://docs.google.com/presentation/d/1u-UFD5LzBh0FTV54e-TCJJOrCRtdWxM000rQw-a5w6w/edit?usp=sharing)! <!-- Hugo/Paul -->
+9:30 - 9:45 - [Welcome - in person](https://docs.google.com/presentation/d/1u-UFD5LzBh0FTV54e-TCJJOrCRtdWxM000rQw-a5w6w/edit?usp=sharing) 
+
+<!-- 9:30 - 9:45 - [Welcome - online](https://docs.google.com/presentation/d/1u-UFD5LzBh0FTV54e-TCJJOrCRtdWxM000rQw-a5w6w/edit?usp=sharing) -->
 
 9:45 - 10:15 - [Introduction to RNAseq Methods](Bulk_RNAseq_Course_Base/Markdowns/01_Introduction_to_RNAseq_Methods.html) - Erin
 
